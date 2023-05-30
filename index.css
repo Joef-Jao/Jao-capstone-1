@@ -1,0 +1,460 @@
+* {
+	font-family: 'Montserrat', sans-serif;
+	padding: 0;
+	margin: 0;
+}
+
+ul {
+	list-style-type: none;
+    }
+
+
+#navbar {
+	padding: 0;
+}
+
+
+#beginning-point { 
+	  background-color: #2C2E2E;
+	  justify-content: center;
+	  list-style-type: none;
+	  margin: 0;
+	  padding: 0;
+	  overflow: hidden;
+	  background-color: #343A40;
+	  top: 0;
+	  width: 100%;
+	  z-index: 9999;
+
+}
+
+#H {
+	color: #FA8E50;
+	border-radius: 25px;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 7.5vw;
+	padding: 5px;
+	font-size: 15px;
+  text-align: center;
+}
+
+
+
+
+
+#J {
+
+ 	color: #C3E8BA;
+ 	border-radius: 25px;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 7.5vw;
+	padding: 5px;
+	font-size: 15px;
+	 text-align: center;
+
+}
+
+
+#P {
+	color: #AE90B8;
+	border-radius: 25px;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 7.5vw;
+	padding: 5px;
+	font-size: 15px;
+  text-align: center;
+
+}
+
+
+#C {
+	color: #3F59AB;
+	border: none;
+	margin-top: 5px;
+	margin-bottom: 5px;
+	margin-left: 10px;
+	margin-right: 10px;
+	width: 7.5vw;
+	padding: 5px;
+	font-size: 15px;
+  text-align: center;
+
+}
+
+
+
+
+.reaper {
+	height: 200px;
+	width: 200px;
+	border-radius: 25px;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover ;
+
+}
+
+
+#stargaze {
+	color: white;
+	height: 100vh;
+	width: 100%;
+	background-image: url(./images/dawn.jpg) ;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover ;
+	justify-content: center;
+	align-items: center;
+	text-align: center;
+	display: flex;
+	flex-direction: row;
+
+
+
+}
+
+
+
+.rocket {
+	height: 300px;
+	width: 240px;
+}
+
+
+
+.SG-S {
+	margin-right: 10%;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#dawn {
+	height: 100vh;
+	width: 100%;
+	background-image: url(./images/dawn.jpg) ;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover ;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#noon {
+	height: 100vh;
+	width: 100%;
+	background-image: url(./images/noon.jpeg) ;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover ;
+
+}
+
+
+#S-N {
+	text-align: center;
+	padding-top: 5%;
+}
+
+#S-N-tools {
+	text-align: center;
+	border: medium;
+	justify-content: center;
+	align-items: center;
+	margin: auto;
+	display: flex;
+	flex-direction: row;
+	padding-top: 5.5%;
+
+}
+
+
+#S-N-toolsdeep {
+	width: 100%;
+	color: white;
+	list-style-type: none;
+	text-align: center;
+
+}
+
+
+#tools {
+	list-style-type: none;
+}
+
+
+#S-N-tools-deeper {
+	width: 100%;
+	color: white;
+	list-style-type: none;
+
+}
+
+
+#S-N-tools-deeper {
+	padding-top: 3%;	
+}
+
+
+
+
+#tools2 {
+	list-style-type: none;
+}
+
+
+
+
+
+
+
+
+
+#dusk {
+	height: 100vh;
+	width: 100%;
+	background-image: url(./images/dusk.jpg) ;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover ;
+
+}
+
+
+#dusky {
+	padding-top: 2.5%;
+	padding-bottom: 2.5%;
+}
+
+#projects {
+	display: flex;
+	text-align: center;
+	padding-top: 5%;
+	color: white;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+#night {
+	height: 150vh;
+	width: 100%;
+	background-image: url(./images/night.jpg) ;
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size:cover ;
+
+}
+
+
+
+.N-h3 {
+	color:white; 
+	text-align: center; 
+	padding-bottom: 2.5%; 
+	padding-top: 3%;
+}
+
+
+.N-div {
+	padding-top: 1%;
+	padding-bottom: 20px;
+	padding-left: 36px;
+	padding-right: 36px;
+	justify-content: center;
+	align-items: center;
+	display: block;
+
+}
+
+#info {
+	display: block;
+	text-align: center;
+	width: 50%;
+	margin: auto;
+	margin-bottom: 300px;
+	color: black;
+
+}
+
+
+
+.N-form {
+	color: white;
+	text-align:center;
+	margin-top: 12px;
+	justify-content: center;
+	align-items: center;
+	width: 100%;
+	height: 30px;
+	border: none;
+	display: flex;
+	margin-bottom: 36px;
+
+}
+
+
+
+
+
+
+.N-p1 {
+	color: white; 
+	text-align: center;
+	margin-bottom: 24px;
+	display: block;
+
+}
+
+
+
+.N-p2 {
+	color: white; 
+	text-align: center;
+	margin-bottom: 24px;
+	margin-top: 16px;
+	display: block;
+
+
+}
+
+
+
+.N-p3 {
+	color: white; 
+	text-align: center;
+	margin-bottom: 24px;
+	margin-top: 16px;
+	display: block;
+
+}
+
+
+
+
+
+
+#pre-button {
+	justify-content: center;
+	align-items: center;
+
+}
+
+
+#button {
+	background: linear-gradient(#886983, #32427A);
+	color: white;
+	padding: 12px 24px;
+  	border: none;
+  	border-radius: 5px;
+  	margin-top: 60px;
+
+}
+
+
+
+
+
+
+
+
+@media (min-width: 480px){
+
+	
+	#projects {
+	width: 70%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+	margin: auto;
+	padding-top: 10%;
+
+	}
+
+	
+	
+
+/* Medium Devices */
+@media (min-width: 768px) {
+
+	#projects {
+	width: 50%;
+	display: flex;
+	flex-direction: column;
+	text-align: center;
+			
+}
+
+
+
+/* Large Devices */
+@media (min-width: 992px) {
+
+	#projects {
+	width: 100%;
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+
+}
+
+
+	#D-css {
+		margin-top: 20%;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
